@@ -333,7 +333,7 @@ padding-left: 0;
 
 /*CUSTOMERS*/
 
-.cusromer-section {
+.customer-section {
   padding: 120px 0;
 }
 
@@ -378,7 +378,8 @@ fill: currentColor;
 
 .customer-link:hover, 
 .customer-link:focus { 
-color: var(--color-pressed-state); 
+color: var(--color-pressed-state);
+border-color: #404bbf; 
 } 
 
 
