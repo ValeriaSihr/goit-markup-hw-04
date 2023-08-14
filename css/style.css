@@ -371,8 +371,8 @@ color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 fill: currentColor;
 }
 
-.customers-item:hover, 
-.customers-item:focus { 
+.customer-link:hover, 
+.customer-link:focus { 
 color: var(--color-pressed-state); 
 } 
 
@@ -460,7 +460,7 @@ color: var(--color-pressed-state);
 
 .footer-social-icon:hover,
 .footer-social-icon:focus {
-  background-color: var(--color-subtle-text);
+  background-color: var(--color-success);
   fill: var(--color-light);
 }
 .footer-social-item {
